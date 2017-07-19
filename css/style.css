@@ -1,0 +1,180 @@
+body {
+	background-color: #f0f2ea;;
+}
+
+header {
+	padding-top: 40px;
+}
+
+.line {
+	margin-top: 30px;
+}
+
+hr {
+    height: 2px;
+    background-color: #d8d9d2;
+    color: #d8d9d2;
+    border: none;
+    width: 50%;	
+}
+
+.question {
+	margin: 35px 0 40px 0;
+}
+
+.question h3 {
+	text-transform: uppercase;
+	color: #636758;
+	font-family: Arial sans-serif;
+	font-size: 19px;	
+}
+
+#main .bg {
+	background-color: #fff;
+	padding-bottom: 40px;
+}
+
+#main .main_bg {
+	background: url('../img/main_img.png') no-repeat center center;
+	height: 700px;
+	text-transform: uppercase;
+	color: #fff;
+	padding-top: 230px;
+	background-size: cover;
+}
+
+#main .summer h1 {
+    font-size: 56px;
+}
+
+#main hr {
+	width: 20%;
+	background-color: #fff;
+	border: none;
+	height: 1px;
+}
+
+.sheep h5 {
+	font-family: Arial, sans-serif;
+	font-size: 17pt;
+	margin-top: 25px;
+	opacity: 0.8;
+}
+.header {
+   margin-top: 50px;
+   margin-bottom: 40px;
+}
+
+.header h2 {
+	font-family: Arial, sans-serif;
+	font-size: 32px;
+	text-transform: uppercase;
+	color: #484a43;
+}
+
+.more {
+	padding-left: 25px;
+	background-color: #fff;
+	margin-bottom: 40px;
+}
+
+.more .article_1 {
+	background: url('../img/article-1.png') no-repeat;
+	height: 300px;
+	background-size: 98%;
+	padding-top: 120px;
+}
+
+.more .article_2 {
+	background: url('../img/article-2.png') no-repeat;
+	height: 300px;
+	background-size: 95%;
+	padding-top: 120px;
+}
+
+.more .article_3 {
+	background: url('../img/article-3.png') no-repeat;
+	height: 400px;
+	background-size: 97%;
+	padding-top: 190px;
+	margin-top: 40px;
+}
+
+.more a {
+   color: #fff;
+   text-transform: uppercase;
+   font-size: 50px;
+   font-weight: bold;
+}
+
+.more a:hover {
+   text-decoration: none;
+   color: #484a43;
+   -webkit-transition: all 0.4s;
+   -o-transition: all 0.4s;
+   transition: all 0.4s;
+}
+
+.more h4 {
+	color: #7a8957;
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	font-size: 14pt;
+	margin-top: 20px;
+}
+
+.more p {
+	font-family: Arial, sans-serif;
+	font-size: 12pt;
+	color: #333;
+}
+
+.footer {
+	padding: 82px 30px 0 30px;
+}
+
+.footer a {
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	font-size: 11pt;
+	color: #7a8957;
+}
+
+.about h5 {
+    font-family: Arial, sans-serif;
+	font-weight: bold;
+	font-size: 14pt;
+	margin: 0;
+	padding-bottom: 15px;
+}
+
+.about a {
+	font-size: 11pt;
+}
+
+.links {
+	float: right;
+}
+
+.links a {
+	font-size: 12pt;
+}
+
+.social {
+	margin-bottom: 17px;
+}
+
+.unsubscribe {
+	margin: 40px 0px;
+	font-size: 11pt;
+}
+
+.developer a {
+    color: #7a8957;
+    font-size: 11pt;
+    font-weight: bold;
+}
+
+
+
+
